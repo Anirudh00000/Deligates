@@ -1,0 +1,8 @@
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\bin\Debug\DeligatesExample.exe.config
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\bin\Debug\DeligatesExample.exe
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\bin\Debug\DeligatesExample.pdb
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\obj\Debug\DeligatesExample.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\obj\Debug\DeligatesExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\obj\Debug\DeligatesExample.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\obj\Debug\DeligatesExample.exe
+C:\Users\ANI\source\repos\DeligatesExample\DeligatesExample\obj\Debug\DeligatesExample.pdb
